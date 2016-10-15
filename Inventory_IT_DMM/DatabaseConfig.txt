@@ -1,0 +1,2 @@
+﻿path=D:\My documents\Proekti\Inventory_IT_DMM - MS Access\Inventory_IT_DMM\Database
+TemplatePath=D:\My documents\Proekti\Draexlmaier Macedonia\Inventory\Inventory_IT_DMM - MS Access\Inventory_IT_DMM\Template
